@@ -53,7 +53,7 @@ canvas {
 
 @keyframes animate {
   0%, 100% { filter: blur(0); }
-  40% { filter: blur(8px); }  /* Less blur effect */
+  40% { filter: blur(8px); }  
   80% { filter: blur(0); }
 }
 
