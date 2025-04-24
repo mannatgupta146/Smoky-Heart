@@ -29,7 +29,6 @@ The animation uses a combination of CSS for text blur and glowing effects, and J
 - Google Fonts
 
 ## Customization
-
 You can easily change:
 - The message text inside `index.html`
 - The font style by switching the Google Font
@@ -37,7 +36,6 @@ You can easily change:
 - The canvas animation logic in `script.js`
 
 ## Contributing
-
 We welcome contributions! You can:
 - Fork the repository  
 - Create a new feature branch  
