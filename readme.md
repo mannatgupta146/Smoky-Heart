@@ -1,8 +1,8 @@
-# 💖 Smoky Heart
+# Smoky Heart
 
 A stunning animated web experience that delivers a heartfelt message — *"Every Beat Says Your Name"* — using glowing, smoky text and a subtle animated heart in the background. Built with love using HTML, CSS, and JavaScript.
 
-## 🌟 Features
+## Features
 
 - Elegant typography with a romantic flair  
 - Smoky animated text with glowing effects  
@@ -10,25 +10,25 @@ A stunning animated web experience that delivers a heartfelt message — *"Every
 - Smooth, infinite animation loops  
 - Fully responsive layout
 
-## 🎬 How It Works
+## How It Works
 
 The animation uses a combination of CSS for text blur and glowing effects, and JavaScript to animate a pulsing heart on the canvas. Each letter of the message animates with a delay to give a smoky, wave-like motion.
 
-## 🔧 How to Use
+## How to Use
 
 1. Clone or download the repository.  
 2. Open the `index.html` file in your browser.  
 3. Customize the message in the `.smoke` div.  
 4. Modify colors, fonts, or animation speeds in `style.css` if needed.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5  
 - CSS3  
 - JavaScript (Canvas API)  
 - Google Fonts
 
-## 📝 Customization
+## Customization
 
 You can easily change:
 - The message text inside `index.html`
@@ -36,7 +36,7 @@ You can easily change:
 - The color palette and animation blur levels in `style.css`
 - The canvas animation logic in `script.js`
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! You can:
 - Fork the repository  
@@ -46,7 +46,7 @@ We welcome contributions! You can:
 
 Please keep your code clean and well-documented.
 
-## 💌 Perfect For
+## Perfect For
 
 - Valentine's Day  
 - Digital love letters  
