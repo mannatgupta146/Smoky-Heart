@@ -2,6 +2,13 @@
 
 A stunning animated web experience that delivers a heartfelt message — *"Every Beat Says Your Name"* — using glowing, smoky text and a subtle animated heart in the background. Built with love using HTML, CSS, and JavaScript.
 
+
+## 📸 Preview
+
+![Preview](image.png) 
+***See how it looks like***
+
+
 ## Features
 
 - Elegant typography with a romantic flair  
@@ -52,4 +59,4 @@ Please keep your code clean and well-documented.
 - Creative front-end demos
 
 ---
-
+**Each glow, each blur, each beat is a silent poem only hearts can read.🎀🧿**
