@@ -1,4 +1,4 @@
-# Smoky Heart
+# Smoky Heart 🌫️💕 
 
 A stunning animated web experience that delivers a heartfelt message — *"Every Beat Says Your Name"* — using glowing, smoky text and a subtle animated heart in the background. Built with love using HTML, CSS, and JavaScript.
 
