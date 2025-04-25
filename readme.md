@@ -3,7 +3,7 @@
 A stunning animated web experience that delivers a heartfelt message — *"Every Beat Says Your Name"* — using glowing, smoky text and a subtle animated heart in the background. Built with love using HTML, CSS, and JavaScript.
 
 
-## 📸 Preview
+## Preview
 
 ![Preview](image.png) 
 ***See how it looks like***
